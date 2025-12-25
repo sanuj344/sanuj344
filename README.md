@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi 👋 I'm Sanuj Bhagat
 
-<!--
-**sanuj344/sanuj344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Development Intern | Full Stack Developer  
+Strong in Backend, APIs, Databases & Performance Optimization  
 
-Here are some ideas to get you started:
+### 💼 Experience Highlights
+- Optimized backend APIs by 30–40%
+- Designed secure JWT-based auth systems
+- Worked on real production platforms (HMS, e-commerce, cloud kitchen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+JavaScript, TypeScript, Python, Node.js, React, PostgreSQL, MongoDB
+
+### 📌 Featured Projects
+- Real-time Chat Application (Socket.io)
+- Imagify – AI Image Generator with Payments
+- Backend Performance Optimization Demos
