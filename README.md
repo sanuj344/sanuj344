@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://www.github.com/sanuj344](https://www.github.com/sanuj344)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1d13wTh0tAHv_0PRc4-vDRG8LcLFIYv9N/view)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1FC1QOFxr0XJAg7REintz59BCGJgEbXgu/view?usp=drivesdk)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
